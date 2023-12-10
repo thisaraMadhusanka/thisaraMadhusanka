@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Im Thisara Madhusanka 
 
 <!--
 **thisaraMadhusanka/thisaraMadhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaramadhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="thisaramadhusanka" /> </p>
 
